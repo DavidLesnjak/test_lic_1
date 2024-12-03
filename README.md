@@ -1,3 +1,3 @@
-[![License](https://img.shields.io/github/license/DavidLesnjak/test_lic_1?label)](https://github.com/DavidLesnjak/test_lic_1/blob/main/LICENSE-BSD)
-[![License](https://img.shields.io/github/license/DavidLesnjak/test_lic_1?label)](https://github.com/DavidLesnjak/test_lic_1/blob/main/LICENSE-Apache)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-green?label)](https://github.com/DavidLesnjak/test_lic_1/blob/main/LICENSE-Apache)
+[![License: BSD 3-Clause](https://img.shields.io/badge/License-BSD%203--Clause-green?label)](https://github.com/DavidLesnjak/test_lic_1/blob/main/LICENSE-BSD)
 # test_lic_1
